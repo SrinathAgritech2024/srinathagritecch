@@ -1,2 +1,2 @@
-# srinathagritecch
-srinath is my 1st website
+# ShrinathAgritecch
+Shrinath is my 1st website
